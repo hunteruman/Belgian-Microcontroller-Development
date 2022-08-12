@@ -1,0 +1,2 @@
+Suspiciosly low values of TF (compared to main analysis) may have be caused by the plug socket failure
+Nevertheless, the test is consistent as we had both simple and compound signal under the same conditions

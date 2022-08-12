@@ -1,0 +1,1 @@
+Badinit_index: index refers to Q/R ratio: from 10e-3 to 1

@@ -1,0 +1,1 @@
+Though B should be =Ts and C=-1, the routine returns us the opposite which hindered our job
